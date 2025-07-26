@@ -30,3 +30,17 @@
 ---
 
 ## 📂 Project Structure
+![Project Structure](assets/project-structure.png)
+
+---
+## 🔮 Future Enhancements
+✨ Migrate backend to Spring Boot with REST APIs
+✨ Add transaction history & export reports
+✨ Encrypt stored passwords for better security
+✨ Deploy as a web-based banking system
+
+---
+## 👤 Author
+👨‍💻 Abdullah Java Developer
+📧 [your email here]
+🔗 LinkedIn Profile
