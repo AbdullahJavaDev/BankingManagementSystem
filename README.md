@@ -55,7 +55,7 @@ Feel free to **fork this repo** and submit a pull request. ⭐
 
 ## 📊 Results
 
-Below are some screenshots showcasing the **Banking Management System** in action. ✨
+Below are some screenshots showcasing the **Banking Management System** in action. ✨<br>
 ![Login](assets/project-structure.png)<br>
 ![Account Creation1](assets/project-structure.png)<br>
 ![Details2](assets/project-structure.png)<br>
