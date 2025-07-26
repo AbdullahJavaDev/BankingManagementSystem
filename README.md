@@ -19,14 +19,14 @@
 ---
 
 ## 🏗 Tech Stack
-------------------------------------------------------------------------------
-|                 Layer            |          Technology                     |
-|------- --------------------------|------------ ----------------------------|
-|    💻 Programming Language       |          Core Java                     |
-|    🎨 GUI                        |        Java Swing & AWT                |
-|    🗄 Database                    |            MySQL                       |
-|   🔗 Connectivity                |             JDBC                       |
-|                                   |                                        |
-------------------------------------------------------------------------------
+
+| Layer | Technology |
+|-------|------------|
+| 💻 Programming Language | Core Java |
+| 🎨 GUI | Java Swing & AWT |
+| 🗄 Database | MySQL |
+| 🔗 Connectivity | JDBC |
+
+---
 
 ## 📂 Project Structure
