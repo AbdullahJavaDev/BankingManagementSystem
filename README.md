@@ -48,8 +48,8 @@ Feel free to **fork this repo** and submit a pull request. ⭐
 
 ## 👤 Author
 **👨‍💻 Abdullah Java Developer**  
-📧 *your email here*  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+📧 *shaikabdull123143@gmail.com*  
+🔗 [LinkedIn Profile](www.linkedin.com/in/shaik-abdulla-71340934a)
 
 ---
 
