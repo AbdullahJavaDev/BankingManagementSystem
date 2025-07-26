@@ -56,14 +56,15 @@ Feel free to **fork this repo** and submit a pull request. ⭐
 ## 📊 Results
 
 Below are some screenshots showcasing the **Banking Management System** in action. ✨<br>
-**Login**
+
+**Login GUI:**
 ![Login](login.png)<br>
-**Details1**
+**Details1 GUI:**
 ![Account Creation1](details1.png)<br>
-**Details2**
+**Details2 GUI:**
 ![Details2](details2.png)<br>
-**Details3**
+**Details3 GUI**
 ![Deatils3](details3.png)<br>
-**Transaction**
+**Transaction GUI**
 ![Transaction](transaction.png)<br>
 
