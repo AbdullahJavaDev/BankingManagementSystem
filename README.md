@@ -56,9 +56,9 @@ Feel free to **fork this repo** and submit a pull request. ⭐
 ## 📊 Results
 
 Below are some screenshots showcasing the **Banking Management System** in action. ✨
-![Login](assets/project-structure.png)
-![Account Creation1](assets/project-structure.png)
-![Details2](assets/project-structure.png)
-![Deatils3](assets/project-structure.png)
-![Transaction](assets/project-structure.png)
+![Login](assets/project-structure.png)<br>
+![Account Creation1](assets/project-structure.png)<br>
+![Details2](assets/project-structure.png)<br>
+![Deatils3](assets/project-structure.png)<br>
+![Transaction](assets/project-structure.png)<br>
 
