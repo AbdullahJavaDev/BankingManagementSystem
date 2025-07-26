@@ -30,7 +30,7 @@
 ---
 
 ## 📂 Project Structure
-![Project Structure](assets/project-structure.png)
+![Project Structure](projectStructure.png)
 
 ## 🔮 Future Enhancements
 ✨ Migrate backend to **Spring Boot** with REST APIs  
@@ -56,9 +56,9 @@ Feel free to **fork this repo** and submit a pull request. ⭐
 ## 📊 Results
 
 Below are some screenshots showcasing the **Banking Management System** in action. ✨<br>
-![Login](assets/project-structure.png)<br>
-![Account Creation1](assets/project-structure.png)<br>
-![Details2](assets/project-structure.png)<br>
-![Deatils3](assets/project-structure.png)<br>
-![Transaction](assets/project-structure.png)<br>
+![Login](login.png)<br>
+![Account Creation1](details1.png)<br>
+![Details2](details2.png)<br>
+![Deatils3](details3.png)<br>
+![Transaction](transaction.png)<br>
 
